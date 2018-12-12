@@ -1,0 +1,26 @@
+header{
+	height:200px;
+	width:950px;
+	background-color:IndianRed;
+}
+main{
+	height:600px;
+	width:450px;
+	background-color:LightPink;
+	text-align:center;
+}
+footer{
+	height:50px;
+	width:950px;
+	background-color:IndianRed;
+}
+aside{
+	height:600px;
+	width:250px;
+	background-color:LightCoral;
+}
+
+.kvadrat{
+display:flex;
+
+}
